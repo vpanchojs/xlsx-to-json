@@ -1,0 +1,55 @@
+{
+  "_from": "git+https://github.com/vpanchojs/node-xlsx-json.git",
+  "_id": "xlsx-to-json@0.3.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/xlsx-to-json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "xlsx-to-json@git+https://github.com/vpanchojs/node-xlsx-json.git",
+    "name": "xlsx-to-json",
+    "escapedName": "xlsx-to-json",
+    "rawSpec": "git+https://github.com/vpanchojs/node-xlsx-json.git",
+    "saveSpec": "git+https://github.com/vpanchojs/node-xlsx-json.git",
+    "fetchSpec": "https://github.com/vpanchojs/node-xlsx-json.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/vpanchojs/node-xlsx-json.git#d5653522d26efbce00f607dd0979163a13bdaa1d",
+  "_spec": "xlsx-to-json@git+https://github.com/vpanchojs/node-xlsx-json.git",
+  "_where": "/Users/victor/cloudFuctionsProjects/helco/helcofunctions/functions",
+  "author": {
+    "name": "chilijung",
+    "email": "chilijung@gmail.com",
+    "url": "http://lijung.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/DataGarage/node-xml-json/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "csv": "~0.3.6",
+    "xlsx": "0.7.12"
+  },
+  "deprecated": false,
+  "description": "Convert xlsx to json",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~3.1.2"
+  },
+  "homepage": "https://github.com/DataGarage/node-xml-json",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "xlsx-to-json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataGarage/node-xlsx-json.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.3.0"
+}
